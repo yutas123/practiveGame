@@ -6,7 +6,7 @@ import ShampooBottle from '../components/ShampooBottle'
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gradient-to-b from-blue-100 to-blue-200">
+    <main className="min-h-screen bg-red-500">
       <div className="text-center pt-8">
         {/* Step 2: タイトル */}
         <h1 className="text-4xl font-bold text-blue-800 mb-4">
